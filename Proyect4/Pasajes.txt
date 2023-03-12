@@ -1,0 +1,2 @@
+{"head":{"object":{"idtren":1,"carga":50,"valorpasaje":10000000,"categoria":"Premium"}},"tail":{"object":{"idtren":1,"carga":50,"valorpasaje":10000000,"categoria":"Premium"}}}
+{"head":{"object":{"idtren":1,"carga":30,"valorpasaje":10000000,"categoria":"Premium"}},"tail":{"object":{"idtren":1,"carga":30,"valorpasaje":10000000,"categoria":"Premium"}}}
